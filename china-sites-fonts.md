@@ -383,6 +383,7 @@ body {
 ```
 
 # 知乎 www.zhihu.com 2015/1/25
+## 知乎登录注册页 www.zhihu.com 2015/1/25
 ```
 media="screen, print"
 body, label, input, textarea, select, button {
@@ -400,6 +401,29 @@ body {
 	text-shadow: 0 1px 1px rgba(0,0,0,.15);
 }
 ```
+## 知乎问题页 www.zhihu.com/question/
+```
+body.zhi {
+padding-top: 46px;
+_padding-top: 64px;
+-webkit-font-smoothing: subpixel-antialiased;
+}
+html body, html input, html textarea, html select, html button {
+font-family: 'Helvetica Neue',Helvetica,Arial,Sans-serif;
+}
+body, input, textarea, select, button {
+line-height: 1.7;
+font-size: 13px;
+padding: 0;
+margin: 0;
+color: #222;
+word-wrap: break-word;
+}
+body {
+-webkit-tap-highlight-color: rgba(0,0,0,0);
+}
+```
+
 
 # 简书 www.jianshu.com 2015/1/25
 ```
