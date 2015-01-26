@@ -420,7 +420,7 @@ body, input, textarea, select, button {
 	word-wrap: break-word;
 }
 body {
--webkit-tap-highlight-color: rgba(0,0,0,0);
+	-webkit-tap-highlight-color: rgba(0,0,0,0);
 }
 ```
 
