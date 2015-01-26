@@ -404,20 +404,20 @@ body {
 ## 知乎问题页 www.zhihu.com/question/
 ```
 body.zhi {
-padding-top: 46px;
-_padding-top: 64px;
--webkit-font-smoothing: subpixel-antialiased;
+	padding-top: 46px;
+	_padding-top: 64px;
+	-webkit-font-smoothing: subpixel-antialiased;
 }
 html body, html input, html textarea, html select, html button {
-font-family: 'Helvetica Neue',Helvetica,Arial,Sans-serif;
+	font-family: 'Helvetica Neue',Helvetica,Arial,Sans-serif;
 }
 body, input, textarea, select, button {
-line-height: 1.7;
-font-size: 13px;
-padding: 0;
-margin: 0;
-color: #222;
-word-wrap: break-word;
+	line-height: 1.7;
+	font-size: 13px;
+	padding: 0;
+	margin: 0;
+	color: #222;
+	word-wrap: break-word;
 }
 body {
 -webkit-tap-highlight-color: rgba(0,0,0,0);
